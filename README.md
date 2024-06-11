@@ -1,4 +1,4 @@
-# Olá! Eu sou o Gabriel Vieira 👋
+# Olá! Eu sou o Gabriel Vieira 👋🏾
 
  * 💬  Sou um aspirante a profissional de TI que se interessa em desenvolvimento de sistemas e análise de dados. Com uma natureza proativa e persistente, anseio atuar no mercado da tecnologia, sempre contribuindo os meus conhecimentos e me capacitando, aberto a novas oportunidades e desafios.
 

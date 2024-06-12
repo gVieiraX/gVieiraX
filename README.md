@@ -4,7 +4,7 @@
 
  * 📚 Cursando Engenharia De Software e fazendo cursos extracurriculares. Atualmente estudando e aprimorando minhas habilidades em Java e Spring Boot.
    
- *  👩‍💻 Possuo conhecimentos básicos em desenvolvimento web (HTML | CSS | JS) com os frameworks (ReactJs | NodeJs ) , Java com Spring Framework e banco de dados.
+ *  👨🏿‍💻 Possuo conhecimentos básicos em desenvolvimento web (HTML | CSS | JS) com os frameworks (ReactJs | NodeJs ) , Java com Spring Framework e banco de dados.
    
    
 
@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-vieirax12/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/gvieiraxx/) 
 
 
-## Tecnologias :man_technologist:	:
+## Tecnologias 👨🏿‍💻
 
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,7 +30,6 @@
   ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
   ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white
 
  # 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gVieiraX&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)

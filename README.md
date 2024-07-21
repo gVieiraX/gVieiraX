@@ -4,7 +4,7 @@
 
  * 📚 Studying Software Engineering and taking extracurricular courses. Currently studying and improving my skills in Java and Spring Boot.
 
- *  👨🏿‍💻 I've basic knowledge in web development with CSS, HTML, Java Spring, familiarity with frameworks like React, Node.js, Java with Spring Framework and relational databases.
+ *  👨🏿‍💻 I've basic knowledge in web development with CSS, HTML, Java Script, familiarity with frameworks like React, Node.js, Java with Spring Framework and relational databases.
    
 # Connect with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-vieirax12/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/gvieiraxx/) 

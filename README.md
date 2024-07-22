@@ -1,10 +1,10 @@
 # Hello! I'm Gabriel Vieira  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Dark%20Skin%20Tone.png" alt="Waving Hand Dark Skin Tone" width="30" height="30" />
 
- * 💬 I'm a aspiring IT prrofessional who is inbterested in system development and data anaalysis. With a proactive and persistent nature, I look forwad to working in the tecnhology market, always contributing my knowledges and training myself . Open to new opportunities and challengs.  
+ * 💬 I'm a aspiring IT professional who is interested in system development and data analysis. With a proactive and persistent nature, I look forwad to working in the tecnhology market, always contributing my knowledges and training myself . Open to new opportunities and challenges.  
 
  * 📚 Studying Software Engineering and taking extracurricular courses. Currently studying and improving my skills in Java and Spring Boot.
 
- *  👨🏿‍💻 I've basic knowledge in web development with CSS, HTML, Java Script, familiarity with frameworks like React, Node.js, Java with Spring Framework and relational databases.
+ *  👨🏿‍💻 I've basic knowledge in web development with CSS, HTML, Java Script, familiarity with frameworks like React and Node.js, Java with Spring Framework and relational databases.
    
 # Connect with me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-vieirax12/) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/gvieiraxx/) 

@@ -2,7 +2,7 @@
 
  * 💬 I'm a aspiring IT professional who is interested in system development and data analysis. With a proactive and persistent nature, I look forwad to working in the tecnhology market, always contributing my knowledges and training myself . Open to new opportunities and challenges.  
 
- * 📚 Studying Software Engineering and taking extracurricular courses. Currently studying and improving my skills in Java and Spring Boot.
+ * 📚 Studying Software Engineering and taking extracurricular courses. Currently studying and improving my skills in React Native.
 
  *  👨🏿‍💻 I've basic knowledge in web development with CSS, HTML, Java Script, familiarity with frameworks like React and Node.js, Java with Spring Framework and relational databases.
    

@@ -1,6 +1,6 @@
 # Hello! I'm Gabriel Vieira  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Dark%20Skin%20Tone.png" alt="Waving Hand Dark Skin Tone" width="30" height="30" />
 
- * 💬 I'm a aspiring IT professional who is interested in system development and data analysis. With a proactive and persistent nature, I look forwad to working in the tecnhology market, always contributing my knowledges and training myself . Open to new opportunities and challenges.  
+ * 💬 I am an IT professional with a strong interest in software development, artificial intelligence, SAP, project management and agile methodologies. Contributing my knowledge to the IT sector and constantly improving my knowledge. Always Open to new challenges.  
 
  * 📚 Studying Software Engineering and taking extracurricular courses. Currently studying and improving my skills in Java and Angular.
 
@@ -13,7 +13,7 @@
 ## Tecnologies 👨🏿‍💻
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,angular,postgres,mysql,idea,vscode,postman,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,angular,java,spring,postgres,mysql,git,idea,vscode,postman" />
   </a>
 </p>
 
